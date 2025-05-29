@@ -1,0 +1,2973 @@
+[
+  {
+    "sent_id": 255,
+    "sent": "中国历史悠久，文化丰富，是一个拥有五千的文明古国。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次旅行，我和家人很高兴，度过了愉快的周末。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这所学校环境优美，教育质量优良，是值得大家",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他今年已经四十岁，所以工作不努力，就会遭很严重的后果。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 102,
+    "sent": "今年春天，我家乡的杏花开了，了树林一片烂漫。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "中国是世界上最大的发展中国家，因此他的地非常重要。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这所学校环境优，教学设施齐全。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他去过这学，学了很多知识。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "他去学校忘了带本。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这书内容丰富，值得大家去读，可以给人很多思考。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "今天天气真好，咱去公园赏花，带了不少。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他完成了一份报告分析市场趋势，为公司经营提供重要的信，值得表扬，",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "经研究，发现在我国多地区推广新型农业科技，有助于农民增收，提高生产效率，改善农村生活。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "今天天气十分热，我们去游泳池游。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这是一段重要的信息，因此，提供准确的信息，是至关重要的。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "今天天很凉快但我没有带伞，因此被湿，结果导致感冒",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "旅途中保持心情愉，能够防病治病增强免疫。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次活动我令参加，受益很多，所以很推荐给有类兴趣的朋友。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这个项目的研发完成结算，是企业今年的重要成就一。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "他这学期的成绩进步了许多，因努力学习，所以这次考试取得更佳成效。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 347,
+    "sent": "今天你去了学校开学式，有个演讲很好精彩。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 456,
+    "sent": "我昨天去图书馆借了一本好书，讲述了一个科学家生动的发。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他每天早早到校，完成作业，与同学玩耍。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "由于长时间地露太阳下，皮肤出现干燥裂口的情况，因此大大得影响了工作。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "今天天气真不错，出去走走，穿了件毛衣，戴了个帽。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这所学校地理位置优越环境优美，是学生学习的理想之地，缺少三实验室。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "他成绩很好，父母亲对他期待很，是得益于他自己的努力。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺字漏字"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "我十分喜荒，这个计划能够顺利实施。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "因尔，保存良好的家风，摒弃有害而无益的家风，是有助于人成长的一大益事。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错别字错误"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他很喜欢运动特别喜欢篮球和排球他最喜欢的运动员是姚明和科比",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "他每天都去公园散步锻炼身体然后回家洗漱做晚饭，和孩子们一起吃饭",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这本好书内容丰富，吸引了大量读者他读得非常认真。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他虽然很努力但是成绩却一直没有提升",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他学习成绩非常好，虽然上课从不迟到",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 318,
+    "sent": "这次旅行我去了很多地方，比如说敦煌莫高窟丽江古城等等",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他完成了一项艰巨的工作每天都是加班，经常工作到深夜。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他是个计算机专业的研究生在他的毕业论文中，他提出了一个新的算法",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "他每天都努力学习，是非常优秀的学生为此他甚至放弃了周末的休息时间",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他学习成绩很好父母却总是不太满意这让他很困扰",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 265,
+    "sent": "他非常聪明，学习能力强，但是成绩却不理想根本原因在于平时太过懒惰",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他不仅精通英语，法语，德语听说写样样精通，他真是个语言天才",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 347,
+    "sent": "这辆车它非常舒适而且空间也很大",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "他每天都早起锻炼身体然后做一些家务劳动并且培养孩子的兴趣爱好，接着又送孩子上学",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "他成功获得博士学位，并在知名大学任教多年最后他选择回国发展",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 382,
+    "sent": "他原本以为，自己这次能够顺利地通过面试了，但是却遗憾地落选了找了一份新的工作。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "缺少标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "我今天早上去了超市买东西！买了一堆蔬菜水果回来。",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他昨天去了公园玩，并且买了一批玩具和一些零食？",
+    "CourseGrainedErrorType": [
+      "字符级错误"
+    ],
+    "FineGrainedErrorType": [
+      "错用标点"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "看完那部电影，故事情节十分吸引人。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "可行的方案是在此次会议上提出，并获得了一致认可。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "因此教诲我们如何成为一名优秀公民，这是教育部门的主要职责所在。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "通过这次活动，提高了很多。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "保留下来的信件，提供了很多有关个人生活的信息。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "看到那片美丽的花园，使心情格外舒畅。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 302,
+    "sent": "一本书看完，对于故事情节的理解便更加深刻了。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 347,
+    "sent": "通过老王的介绍认识了这个新同事，背景了解了许多。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在中国大地上广泛流传的民间故事，是经过一代代人的口耳传相，丰富了中华民族的文化宝库。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语不明"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他昨天去了图书馆一些书没人归还。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次社区活动的目的在于居民的环保意识，增强环保行为。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这次活动非常成功，得有声有色，观众们都被深深地打动了。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他房间，悄然无声。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "他去了书店许多书，然后回家。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这份报告详细地公司的经营情况，希望可以给管理层带来参考。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "这个计划目标是一年之内使公司的业绩大幅度，但却没有具体的实施方法。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这个项目的成功主要团队的努力，他们工作非常努力。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这个优秀的项目，需要好的技术，还有更多的经验。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 567,
+    "sent": "这次竞赛他数学和物理，非常努力。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他今天一件新的衣服和新买来的鞋子。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 347,
+    "sent": "这次旅行令人兴奋没想到却要提前。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "这份报告大量的数据，表格，提升了我们对市场的了解。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 342,
+    "sent": "他去了图书馆一本书关于历史的。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "这次会议了许多问题，其中包括项目的进展，合作伙伴的选择。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "他上学去拿书，等回来的时候书不见了。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这次会议关于未来发展方向的问题，而且。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 342,
+    "sent": "此次社区活动组织的很好，居民们积极。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "谓语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "最近几年，国内经济快速发展，一系列有效的政策得以。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 289,
+    "sent": "因此，他积极参加公益活动，树立了一个好榜样。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "他今天很忙，在家处理了很多工作，使自己。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他取得了很大的进步，目标是希望通过这次考试。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他努力学习，希望能尽快提高成绩。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他刻苦学习努力工作，使成绩大幅度提高。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "他虽然每天都在努力学习，但是进步缓慢的原因是没有好的学习方法。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "这次活动的目标是为了提高人们的环保意识，增强知名度，取得显著效果。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他去了图书馆看书学习，回来的时候包里装满了书本。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "他去了图书馆看书。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 357,
+    "sent": "这本书介绍了许多关于编程的知识，对于初学者非常有益。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他花费了大量的时间在工作，使得自己的健康状况大幅下降。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他积极参加各项体育活动改善身体情况。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他在学校表现优异，获得了许多奖学金，",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "这次会议讨论了企业改革的方向以及新的管理模式。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他讲解了关于物理学的新发现，对于理论和实验。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他做了一个非常好的演讲，赢得了大家的掌声，但是没有人知道他取得了什么成就。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因此，他很高兴地接受这次会议邀请。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他每天都去公园锻炼身体，比如跑步、打太极拳等等活动。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "春季是植树的好季节，应该多种植树，可以防止水土流失，也是保护环境。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "他带领着团队努力工作，使得公司获得成功。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "宾语残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "因为长期处于竞争状态，他积累了丰富的经验，使得取得成功。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "为了提高工作效率，减少浪费时间，所以应该学习更多的知识，改进方法，才能够到达目标。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这次活动中， companys 的员工们都表现得很出色，取得了好成绩有赖于他们的努力。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次会议讨论了很多问题，包括产品质量，生产效率，改进措施以及。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次旅行，我和父母一起去了美丽的地方，享受了美好的度假，给我们留下了许多美好的回忆。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于近期工作繁忙，因此很少有时间来处理这些文献。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "在夜晚的公园散步，欣赏风景，带走疲劳，对于学生和上班族是非常有效的一种方式。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次会议因为准备充分，所以因此讨论得非常深入，但是并未确定具体的实施办法。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "这次会议内容非常丰富，大家积极参与，听取了有关新产品的研发和设计心得等。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在学校里经常进行体育锻炼，有助于身体增强，健康脱胎换骨，从而提高学习效率。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 1002,
+    "sent": "他去了图书馆借了一些书和资料，目的是为了准备即将到来的考试。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 302,
+    "sent": "在公园里散步，可以让我们的心情变得更加愉快，少了城市的喧嚣。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在这次旅行中，参观了许多地方，包括长城，故宫，以及一些其他的历史遗迹。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他去了学校，但忘记了带课本，也没有。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因此，他读书，写作，提高自己的文学素养，。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "他非常聪明，因而每次考试都取得好成绩因此。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "这次讲座，有很多学生来参加听讲，让老师既高兴又激动。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "他今天的表演非常精彩，然而缺少了高潮部分，使得整场演出效果大打折扣。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因此，给孩子提供一个好的教育环境，对于他们的成长是十分重要的，而背后的父母言传身教发挥着至关重要的作用。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于天气原因，使得原定的户外活动只能取消，这让许多同学感到失望。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他频繁地去那个地方，目的是为了寻找灵感，改善自己的作品。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他去了书店，买了很多书，却忘记了选一种适合自己的读。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "在这次的比赛中，他穿了一双新的运动鞋去参加，但是觉得不太舒服，而认为这是鞋造成的。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 311,
+    "sent": "他经常去图书馆学习，也喜欢上网，因此他知识丰富。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "由于长时间的劳累，因此他的身体变得越来越差的原因。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 271,
+    "sent": "在公园里散步感觉非常好，空气清晰，鸟鸣声美妙，似乎连脚步声都变得轻盈了许多。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因此，他经历许多困难和挑战，促进了个人成长与进步，对于取得成功很重要。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "去公园散步，为了身体会更健康。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这所学校里，学生们的课外活动丰富多样，包括等多项内容。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他非常关心学生的学习，总是耐心地给指导，但对学生的纪律问题漠不关心。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "在图书馆学习了一整天，使得身体十分疲惫但知识却丰硕了不少。",
+    "CourseGrainedErrorType": [
+      "成分残缺型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分残缺"
+    ]
+  },
+  {
+    "sent_id": 356,
+    "sent": "由于这个项目的复杂性，使得团队成员投入了大量的时间和精力。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这种经历使得他不但变得更加坚强而且更加有信心。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "在这篇文章中，包含了他对这次比赛的感想和心得，使得文中的内容更为丰富。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 287,
+    "sent": "他因为生病，所以因此常常请假，使得使得他的工作进度受到了影响。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因为他的努力，使得他学习成绩提高了很多。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 265,
+    "sent": "一个优秀的教师，一个负责任的家长常常会因为家庭作业的问题争吵起来。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "一篇好的文章，及其详实的内容，会给人留下深刻的印象。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他带着一队人马前往，因为任务紧急，所以他带着一队人马前往非常重要的会议。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "一个优秀的教师，经常性的提高自己的教学水平，是非常重要的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "这次公司组织的员工培训，受到了员工很好的接受。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 289,
+    "sent": "在这次的考试中，他取得了优异的成绩，因为他的父亲是他一直都在为他辅导学习。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在一个安静的夜晚，他和他的朋友坐着聊天，他因为经常迟到，使得他的朋友非常生气。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因为这些美好的回忆，使得他在遇到困难时更加坚强。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这本新出版的小说，使得广大读者非常喜欢。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "因为经常参加这样的活动，因此让他受益匪浅，尤其是让他认识到团队合作的重要性。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "我因为常年累月地工作，于是导致了身体出现问题。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在他们的家庭中，保持着传统的教育方式，并且并且他的学习习惯也很好，这对孩子的成长是非常有益的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这个房子很大，因此它的面积很宽敞，而且它的面积很宽敞，因此它给人的感觉非常舒适。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于他领导下的团队完成任务，使得项目提前一个月完成。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在一个安全的环境中成长，对于孩子的成长是重要的，因为在其小时候给予他们安全的环境是很有帮助的，",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在会上，领导讲话，提出了很多很好的建议，对于我们来说是受益匪浅的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于天气好转，因此，出门旅游的人很多，很多人。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "一个人走在路上，他发现路边有一只受伤的小鸟，它需要帮助。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这个村庄里，他每天早上起来总是先喂自己的羊，于是在他喂完羊之后，用清水漱口。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他因为生病，使得他不得不休了假。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "因为位于市中心的这个新大厦，它是一座集办公、购物、娱乐为一体的多功能建筑。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "在会上，公司高层领导明确指出，改进产品质量的重要性。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这个地方，因为那堆旧报纸堆的太多，因此，大量旧报纸容易堆积灰尘；所以，定期清理是必要的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他因为考试成绩优异，所以很骄傲，因为他总是第一个到教室的孩子。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "此建筑物的高度，以及它的高度，对周围环境造成了很大的影响。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于在科学实验中反复观察和研究，这个新发现的化合物具有抗衰老的功能，使得它备受科研工作者的欢迎。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "因此，在他到达之前，他提前安排好一切，一切已准备好。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "主语多余"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "这个故事讲述了关于一个勇敢的年轻人，他历经艰险，最终战胜了邪恶的巫师。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这是一部非常精彩并且的电影。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在上课之前，老师提示学生们要提前预习课文，的的的并希望大家不要遗漏重要的知识点。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他非常地喜欢读书，是一本好书，他就会细细地地品味。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这座历史悠久的古城的人民，生活在一个和谐而宁静的环境中。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "在公园里，他欣赏着美丽的花儿，所的心情非常愉快。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "在家里父母经常讲授关于我们好好学习的重要性。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于天气晴朗的原故，我们去公园散步，他的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "在公园里散步的他，特别高兴，因为天气特别好，所以他感觉特别舒服的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他经常地去看望年迈的祖父。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "在公园里散步的一个人说，这景色真美，令人感到心旷神怡的，的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他所所取得的成功，是努力工作的结果。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他经常去那里，并且他经常去那个地方，并且他经常去。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 271,
+    "sent": "通过阅读大量的文献资料，目的是为了提高自己的学术水平。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这座历史悠久的老房子的建筑风格，仍然是今天许多人所喜欢的的样式。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这个漂亮的公园的环境，我每天早晨都会去那里跑步的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 287,
+    "sent": "他常去的那些地方，的他很熟悉。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因为，这座历史悠久的城市给游客提供了许多博物馆和遗址，因而这些博物馆和遗址也是非常值得一游的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "他经常去那个的公园散步，感觉非常惬意。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这次比赛中，队员们奋勇拼搏，但胜利的取得，使得他们倍感高兴。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "在这样的环境中生活，使他感到非常愉快的一个人。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他的一部小说写得很不错，所写的内容也很生动有趣，有深意。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "去年冬天，我和同学的在公园散步，的后来大家都觉得非常愉快。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "天空非常蓝的，所以可以看到很远的山。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 372,
+    "sent": "这篇文章的内容写的非常好，是非常优秀的文章，所以值得一读的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因为这个原因，因此保存良好的家风，摒弃有害而无益的家风，是有助于人成长的一大益事。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在公司召开了一次会议，关于生产计划的问题进行了讨论。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "他经常常常去图书馆查阅资料。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这个报告的主要内容，就是讲述了公司的发展历程，以及所取得的一些主要成就的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他所所写的书对中国文化的研究有很大的贡献。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 271,
+    "sent": "他非常想知道的是一篇文章是否有足够的素材，使文章写得充实而有深度的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 255,
+    "sent": "他非常渴望着知识，并且对学习有着浓厚的兴趣，尤其是课外的知识让他受益匪浅。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这次会议上，甲方提出了一些关于项目的改进方案，并表达了对未来发展前景的一些意见感到很高兴。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在公园里散步的父亲，不禁感慨大自然的美丽与和谐，并且认为这个公园是城市中的一颗明珠，一座非常美丽的城市。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于气温骤降，所以因此，大家要及时增加衣物，预防感冒。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于天气原因，今天学校决定推迟开学，因此导致学生们都已经准备好的行李箱变得完全没有意义。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在公园里散步的小明看见公园的湖边有棵很大的、高大的、高大的柳树。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "在这次旅行中，我们参观了许多景点，并且所见的风景非常美丽是一种让人难忘的经历。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在去年，由于我自己的亲身经历告诉我，这次旅行是我有史以来最值得期待的一次。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 532,
+    "sent": "由于天气变冷，因此我们都穿上毛衣了，的的确确是一件温馨的事情。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 342,
+    "sent": "因此，我们常常会因为学习上的压力，导致这样的结果发生，常常让家长非常的担忧，由于学习任务非常繁重的原因。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "今天早上，我带着一把非常漂亮且非常实用的伞，到了学校。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在这次活动策划中，公司通过举办各种有趣的团队建设活动，提高员工的沟通技能，并增强他们之间的了解及团队的精神。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 321,
+    "sent": "因此，作为学生，不但需要努力学习，还要活跃社交媒体。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于天气不佳，所以学校组织的春游取消了，因此我们很遗憾。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 123,
+    "sent": "在学校里，我经常听老师讲课听同学讨论问题是很有帮助的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于最近天气干燥，因此需要经常浇水，所以你必须每天在家里给植物浇水，的，确保它们健康成长。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "虚词多余"
+    ]
+  },
+  {
+    "sent_id": 382,
+    "sent": "由于天气恶劣，导致了户外活动取消，因此取消的原因是因为天气问题造成的。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "在公园里散步地很愉快，周围有很多树和花，是由公园管理处定期维护的缘故。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 347,
+    "sent": "在公园里散步，在路上碰到一位朋友和他打招呼和他说了一些老套的话，然后继续散步。",
+    "CourseGrainedErrorType": [
+      "成分赘余型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他成分多余"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他对于学术研究非常有兴趣，因此他决定了要攻读博士学位，大学。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他昨天去了北京，并参观了故宫、长城以及许多历史建筑物。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他非常喜欢那本书，经常借朋友的书来看，最近几乎看完了。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 267,
+    "sent": "这本新的小说集购买了几个星期，他却还舍不得读。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他经常去图书馆读书，也喜欢在家中读书，他每天读书的时间不少于两小时。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "每天早晨起床后，喝水、刷牙、洗脸、吃早餐，这些事情已经形成习惯。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他跑得很快，但速度不够稳定，因此，在比赛中经常输给了跑得比他慢但更稳定的人。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 271,
+    "sent": "他经常到图书馆看书复习，以及借阅一些参考书籍。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "在这次比赛中，小明获得了冠军，并且他的表现赢得了全场观众的热烈掌声和广泛赞誉。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 301,
+    "sent": "他虽然才华横溢，可是被拘泥于旧有的表现形式，不能灵活运用。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在这个环境中工作并且学习，使我们的技能得到了极大的提升。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在这次比赛中，跑得最快的是来自A学校的张老师，他以9秒记录完赛。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "这个美丽的村庄，具有悠久的历史，众多人口，吸引了许多游客前来。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "这次考试中他取得了优异的成绩，使我很欣慰。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在北京的博物馆，参观者可以多了解一些关于古代中国的文化知识，以增长见识和提高文化素养。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "我们不仅参观了历史悠久的博物馆，还学习了许多有趣的知识，收到教育。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "因为天气太过寒冷，使得他一早起床就开始取暖，结果却冻得更厉害了。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他每天早晨一起床就吃早饭，洗漱的穿好衣服去上班。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 347,
+    "sent": "这本书详细地介绍了电脑硬件和软件，从历史发展讲起，使得读者们能更好地理解现代电脑。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在这次重要会议上，公司领导听取了来自各部门的工作汇报，各部门领导作了详细阐述多年工作总结。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这个办法而且取得很好的效果，因此得到了同事的认可并且提高了工作效率。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于他长期的学习和努力，使他在学术上取得了很大的进步。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "他每天晚上睡之前先读书半小时，习惯很好，但是读书之前喝一杯牛奶却更好。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 312,
+    "sent": "他不仅每天早晨练习跑步，以保持健康，而且为了减肥也经常骑自行车",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "在这次比赛中，获胜了的队伍是来自A中学，取得了第一名的佳绩。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "房间里有一张床、一张桌子以及一个窗户，和一只猫。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "语序不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他花费大量时间学习英语，提高成绩。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这名运动员加强练跑速度和体能训练，以期能够提高并赢得比赛。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "为了提高学生的阅读，增加阅读的数量，学校举办了一系列的读书活动。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他努力地完成任务，大家都认为他是成功和受尊敬的人。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 347,
+    "sent": "他喜欢去公园散步和钓鱼，这也是他放松心情的好方法。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "这次比赛，他穿着鲜艳的衣服，表现得非常大胆积极。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 317,
+    "sent": "他经常阅读精彩的小说和散文。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他经常爱打篮球，这项活动有利于增强身体素质。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "他喜欢阅读文学，特别是历史和哲学的书籍，认为这对思想的提升非常有益。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 237,
+    "sent": "他修改并完成了研究报告，对数据进行了细致的分析和掌握。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他喜欢吃海鲜，所以他经常去海鲜店买东西用来弥补对海产品的不足。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他每天都跑步，加强锻炼身体，希望达到提高运动水平的目的。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他努力学习，提高自己的素质和知识，以期望有更好的未来。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 101,
+    "sent": "他每天晚上都会去公园散步和跑步以保持健康，他认为这对身体很有好处。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "阅读文章可以增长见识并提高写作能力，因此我们应该积极地去读好书。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他经常去图书馆看书电影，以拓宽视野和提高审美。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "因此，传承优秀的文化传统，抵制低俗而无用的文化垃圾，是增强国民素质的有效办法。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他建议加快提高教育质量，增强学生兴趣，这无疑是提高教育的重要手段。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他经常去图书馆阅读书籍和学习。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "他希望改善学习效率，提高更加好的学习方法。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 261,
+    "sent": "他花费很多时间在培训上，目的是为了提高自己的能力和丰富知识。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他在公园散步，并欣赏和提出了一些景观的意见。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "据报道，他参加并支持了当地的文化遗产保护行动，以及提高公众对环境保护意识。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他带着一件高大的礼物送给同学，以表达自己的感激之情。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他讲述了生动有趣的故事情节，使得听众置身于书中所描述的世界之中。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他喜欢走走停停，常常在景点前逗留片刻，以享受美景。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 456,
+    "sent": "他买了一些书包和笔，确实给贫困儿童送去了温暖。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "这次运动会举办的目的，是为了提高同学们的体能并增加课外活动。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "动宾搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "他驾驶的这辆豪华轿车因为车身长，所以非常适合他。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他喜欢阅读古典文学，尤其是唐诗宋词和其他古代经典。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这次比赛，他穿上了一双新鞋子，带着新球拍，和朋友一起参加了篮球赛。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 312,
+    "sent": "他去了图书馆阅读书籍，以为此次可以温习功课，谁知道竟然无聊透顶，什么都没有学到。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "在这次的绘画比赛中，他的作品在许多同类作品中脱颖而出，获得了一等奖的设计。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "由于天气恶劣，因此他穿着厚厚的棉衣、棉裤和棉鞋，戴着帽子和手套，还带上了雨伞去郊外滑冰。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他经常去图书馆借阅书籍，然后并且阅读，这对他学习很有帮助。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这本书详细讨论了物种起源，以及其他一些进化的具体证据。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 345,
+    "sent": "尽管他花费了很多时间和金钱去修理那辆自行车，但是使它变得更好却是徒劳的。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他因为迟到所以老师让他立刻快走，跟上全班的步伐，以免落下进度。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 278,
+    "sent": "他经常下班后和朋友们打球，午饭和晚餐总是去同一家饭馆吃饭。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他跑步很快，非常喜欢跑步这项活动，是因为他经常在清晨跑步。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 278,
+    "sent": "他总是用手不停的拍打窗户，目的是为了赶走蚊子和防止蚊子出现在家中。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他频繁的去图书馆，阅读了大量的书籍，还经常在那里写作文和做笔记的习惯很好。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这本小说描述得非常精彩，情节紧凑，人物形象塑造生动，让人读此书感到非常高兴。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这首歌曲非常优美，旋律流畅，歌词表达了思念之情的人。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 289,
+    "sent": "这个故事讲述了一个年轻人，他在城市的喧嚣中找到了内心的平静，但是，他的生活并没有因此变得更好。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "他在图书馆读书时看到了山川秀美，令他心旷神怡的风景。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他经常穿一件红色的毛衣去学校上课，但今天穿了一双红裙子。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这首歌曲旋律优美，歌词质量良好，适合在任何场合传唱。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "这本书的内容很丰富，包括了历史、文化、自然以及其他的科学知识等朴素而全面。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于天气的原因，原定于周末举行的运动会，改期到下周举行，使得大家一开始有点失落。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 271,
+    "sent": "这篇文章阐述了过多过于细致，没能很好地把握读者的兴趣点。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "这个设计精妙的房屋，适合用于度假的理想地方。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "他走路时喜欢哼唱歌曲，认为这样可以陶冶情操，放松精神以及身体也能得到锻炼。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 267,
+    "sent": "为了提高学生的成绩，老师逐个指正错误并讲解正确的答案，使学生明白。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 260,
+    "sent": "尽管天气非常恶劣，但是我们仍然去公园里举行聚会，目的是增加友谊和放松心情。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "这个项目需要精心策划和仔细筹备，因此我们必须订购适当的工具，也提供足够的资金。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "由于他昨天去了图书馆，因此他今天作业完成得很好。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 321,
+    "sent": "由于下雨，因此他没去图书馆查阅资料而且取消了原定的会议。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent": "error"
+  },
+  {
+    "sent_id": 255,
+    "sent": "国家制定法律的目的在于维护社会秩序，减少犯罪，提高人民的法律意识和道德水平。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 287,
+    "sent": "他很喜欢看书，常常会因为谁的一个笑话而捧腹大笑。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  },
+  {
+    "sent_id": 255,
+    "sent": "在公园里散步的这个年轻女士，头发的颜色是蓝色的，让人觉得好奇怪。",
+    "CourseGrainedErrorType": [
+      "成分搭配不当型错误"
+    ],
+    "FineGrainedErrorType": [
+      "其他搭配不当"
+    ]
+  }
+]
